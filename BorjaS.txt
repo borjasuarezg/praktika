@@ -1,4 +1,4 @@
 Hau nire lehenengo testua da
 Hau bigarren lerroa da
-Main adarreko aldaketa
 BorjaSadarra adarreko aldaketa
+Main adarreko aldaketa
